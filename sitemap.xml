@@ -6,93 +6,68 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://vasavebusiness.com/</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/index.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/index.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/about.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/about.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/kickstart-scheme.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/services.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/services.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/contact.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/contact.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/uk-customs.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/uk-customs.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/cookies-policy.pdf</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/cookies-policy.pdf</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/privacy-policy.pdf</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/privacy-policy.pdf</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/terms&amp;conditions.pdf</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/terms&amp;conditions.pdf</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://vasavebusiness.com/services/cloud.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/services/ai/ai.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/services/infrastructure.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/services/cloud/cloud.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/services/cybersecurity.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/services/java/java.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://vasavebusiness.com/services/consultancy.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://vasavebusiness.com/services/cloud/google-workspace.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://vasavebusiness.com/services/infrastructure/kaspersky.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://vasavebusiness.com/uk-customs/consultation.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://vasavebusiness.com/uk-customs/training.html</loc>
-  <lastmod>2021-05-18T15:11:32+00:00</lastmod>
+  <loc>https://yuvatalents.uk/services/webdevelopment/webdevelopment.html</loc>
+  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
