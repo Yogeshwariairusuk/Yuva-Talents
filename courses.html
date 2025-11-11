@@ -491,9 +491,7 @@
                 <li><i class="fa fa-check"></i> Gen AI & Prompt Engineering</li>
                 <li><i class="fa fa-check"></i> AI Projects</li>
             </ul>
-             <div class="enroll-btn-wrapper">
-    <button class="openForm" class="enroll-btn"><i class="fas fa-paper-plane"></i> Enroll Now</button>
-  </div> 
+            
         </div>
     </div>
 
@@ -512,9 +510,7 @@
                 <li><i class="fa fa-check"></i> Front-End Frameworks</li>
                 <li><i class="fa fa-check"></i> Full-Stack Project</li>
             </ul>
-            <div class="enroll-btn-wrapper">
-    <button class="openForm" class="enroll-btn"><i class="fas fa-paper-plane"></i> Enroll Now</button>
-  </div> 
+          
         </div>
     </div>
 
@@ -533,9 +529,7 @@
                 <li><i class="fa fa-check"></i> Deployment & Scaling</li>
                 <li><i class="fa fa-check"></i> Cloud Projects</li>
             </ul>
-            <div class="enroll-btn-wrapper">
-    <button class="openForm" class="enroll-btn"><i class="fas fa-paper-plane"></i> Enroll Now</button>
-  </div> 
+           
         </div>
     </div>
 
@@ -554,9 +548,7 @@
                 <li><i class="fa fa-check"></i> OOP & Advanced Topics</li>
                 <li><i class="fa fa-check"></i> Mini Projects</li>
             </ul>
-             <div class="enroll-btn-wrapper">
-    <button class="openForm" class="enroll-btn"><i class="fas fa-paper-plane"></i> Enroll Now</button>
-  </div> 
+             
         </div>
     </div>
 
@@ -570,7 +562,9 @@
     </div>
 
 </div>
-
+<div id="enroll-btn-wrapper">
+    <button class="openForm" class="enroll-btn"><i class="fas fa-paper-plane"></i> Enroll Now</button>
+  </div> 
 <!-- End Section -->
    <!-- Popup Form -->
   <div class="popup-form" id="popupForm">
@@ -654,11 +648,10 @@
     const closeForm = document.getElementById('closeForm');
     const popupForm = document.getElementById('popupForm');
 
-  openForm.forEach(button => {
-    button.addEventListener('click', () => {
+  openForm.addEventListener('click', () => {
       popupForm.style.display = 'flex';
     });
-  });
+
 
     closeForm.addEventListener('click', () => {
       popupForm.style.display = 'none';
