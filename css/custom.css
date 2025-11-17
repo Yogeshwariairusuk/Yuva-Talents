@@ -358,3 +358,135 @@ nav.first-nav_contact .right ul li a span.small-email,
         font-size: 15px;
     }
 }
+
+
+/*chatbot css*/
+/* Floating Icon */
+#chatbot-icon {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    cursor: pointer;
+    z-index: 9999;
+    background: transparent !important;
+    box-shadow: none;
+}
+#chatbot-icon img {
+    width: 70px;     /* make icon same size */
+    height: auto;
+}
+/* Welcome Cloud Above Chatbot Icon */
+#welcome-cloud {
+    position: fixed;
+    bottom: 115px;
+    right: 20px;
+    background: #ffffff;
+    padding: 12px 18px;
+    border-radius: 18px;
+    font-size: 14px;
+    color: #222;
+    box-shadow: 0px 4px 14px #0002;
+    max-width: 230px;
+    z-index: 99999;
+    display: block; /* visible before click */
+}
+
+/* Cloud Tail */
+#welcome-cloud::after {
+    content: "";
+    position: absolute;
+    bottom: -12px;
+    right: 30px;
+    border-width: 12px;
+    border-style: solid;
+    border-color: #ffffff transparent transparent transparent;
+}
+
+
+ 
+/* Chat Window */
+#chatbot-window {
+    position: fixed;
+    bottom: 110px;
+    right: 25px;
+    width: 330px;
+    height: 450px;
+    background: #fff;
+    border-radius: 15px;
+    display: none;
+    flex-direction: column;
+    box-shadow: 0px 6px 20px #0004;
+    overflow: hidden;
+    z-index: 9999;
+}
+ 
+/* Header */
+#chat-header {
+    background: #285DA2;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+ 
+/* Messages */
+#chatBody {
+    flex: 1;
+    padding: 12px;
+    overflow-y: auto;
+    background: #f5f7fa;
+}
+ 
+.message {
+    max-width: 80%;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px 0;
+    animation: fadeIn 0.3s ease;
+}
+ 
+/* Zig-Zag Chat */
+.message.user {
+    background: #d9ebff;
+    margin-left: auto;
+    border-bottom-right-radius: 2px;
+}
+.message.bot {
+    background: #ffffff;
+    border-bottom-left-radius: 2px;
+    border: 1px solid #ddd;
+}
+ 
+/* Input */
+#inputArea {
+    display: flex;
+    border-top: 1px solid #ccc;
+}
+#userInput {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    outline: none;
+}
+#sendBtn {
+    width: 70px;
+    background: #285DA2;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+ 
+/* Radio Button Box */
+.option-box {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+ 
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(5px); }
+    to { opacity: 1; transform: translateY(0); }
+}

@@ -118,7 +118,7 @@
   padding: 20px 25px;
   border-radius: 12px;
   max-width: 900px;
-		max-height:70vh
+		max-height:70vh;
   width: 90%;
  
   overflow-y: auto;
@@ -764,6 +764,26 @@ jQuery(function ($) {
             fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));
     </script>
+     <!-- chatbot -->
+          <div id="welcome-cloud">
+    Hi! Welcome to Yuva Talents 😊<br>
+    How can I help you?
+</div>
+<!-- Floating Icon -->
+<div id="chatbot-icon">
+    <img src="chatbot.png">
+</div>
+ 
+<!-- Chat Window -->
+<div id="chatbot-window">
+    <div id="chat-header">Yuva Talents Assistant</div>
+    <div id="chatBody"></div>
+ 
+    <div id="inputArea">
+        <input id="userInput" placeholder="Type here...">
+        <button id="sendBtn">Send</button>
+    </div>
+</div>
 </body>
 
 </html>
