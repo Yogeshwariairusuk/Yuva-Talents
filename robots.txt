@@ -1,17 +1,4 @@
 User-Agent: *
 Disallow: 
-
-Allow: /about.html
-Allow: /contact.html
-Allow: /index.html
-Allow: /courses.html
-Allow: /cookies-policy.pdf
-Allow: /privacy-policy.pdf
-Allow: /terms&amp;conditions.pdf
-
-Allow: /courses/ai/ai.html
-Allow: /courses/cloud/cloudcomputing.html
-Allow: /courses/java/java.html
-Allow: /courses/webdevelopment/webdevelopment.html
-
+Allow: /
 Sitemap: https://yuvatalents.uk/sitemap.xml
