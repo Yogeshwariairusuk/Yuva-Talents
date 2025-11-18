@@ -1,74 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://yuvatalents.uk/</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://yuvatalents.uk/</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/index.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/index.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/about.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/about.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/services.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/courses.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/contact.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/contact.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/uk-customs.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/courses/ai/ai.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/cookies-policy.pdf</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/courses/cloud/cloudcomputing.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/privacy-policy.pdf</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/courses/webdevelopment/webdevelopment.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yuvatalents.uk/terms&amp;conditions.pdf</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://yuvatalents.uk/courses/java/java.html</loc>
+<lastmod>2025-11-18T14:47:14+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-<url>
-  <loc>https://yuvatalents.uk/services/ai/ai.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yuvatalents.uk/services/cloud/cloud.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yuvatalents.uk/services/java/java.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://yuvatalents.uk/services/webdevelopment/webdevelopment.html</loc>
-  <lastmod>2025-11-06T21.30:00+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
 </urlset>
